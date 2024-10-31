@@ -1,0 +1,12 @@
+{
+	"name": "TestLink",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=octstorageacct;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEMwOUU4OTk3LTY5NTAtNERGQS1BMERBLTA2NkE4REZDQjY0NF8yOWY0MjQzOS1mMTkyLTQ3NzMtYWE1Ni0yYmFhMzYzYWZmY2QiDQp9"
+		}
+	}
+}
