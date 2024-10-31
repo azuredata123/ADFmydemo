@@ -1,0 +1,10 @@
+{
+	"name": "AzureKeyVaultlink",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv-new-octend.vault.azure.net/"
+		}
+	}
+}
