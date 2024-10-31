@@ -1,0 +1,9 @@
+{
+	"name": "Azuredevopstest123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1e735d1-a54c-4a57-a2d8-af611a39abad",
+		"tenantId": "79e2ed26-d82a-4aa2-a76f-ae3035e7e8de"
+	}
+}
