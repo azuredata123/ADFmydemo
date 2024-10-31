@@ -1,0 +1,9 @@
+{
+	"name": "octmynewdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afdd02d4-e93c-4727-82ea-70ad788298fc",
+		"tenantId": "79e2ed26-d82a-4aa2-a76f-ae3035e7e8de"
+	}
+}
